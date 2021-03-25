@@ -34,4 +34,4 @@ where `<sup-frac>` is the fraction of supervised data (e.g. 0.004, 0.06, 0.2, 1.
 
 Classification accuracies and latent traversals will be stored in `data/vae_results/f_<sup-frac>`.
 
-![](readme_imgs/latent_walk_No_Beard_and_Male.png)![](readme_imgs/latent_walk_Smiling_and_Wearing_Necktie.png)![](readme_imgs/latent_walk_Pale_Skin_and_Young.png)
+![](readme_imgs/latent_walk_No_Beard_and_Male.png)![](readme_imgs/latent_walk_Smiling_and_Wearing_Necktie.png)
